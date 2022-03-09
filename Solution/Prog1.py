@@ -1,3 +1,4 @@
+#Write a python script to enter 2 number and print the sum of it.
 i = int(input("Enter any Number: "))
 sum = 0
 a = i
